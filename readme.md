@@ -23,6 +23,8 @@ Tento manuál vás provede používáním anotační aplikace pro označování 
 
 Vítejte v anotační aplikaci **GeometryAI Anotátor**.
 
+Tato aplikace se nachází na adrese [https://geometry-ai-anotator.pages.dev](https://geometry-ai-anotator.pages.dev).
+
 Tato aplikace slouží k přesnému označování specifických oblastí (objektů) na digitálních obrázcích pomocí kreslení polygonů (mnohoúhelníků) kolem těchto objektů. Anotace jsou roztříděny do kategorií, jako jsou fasády, střechy, dveře a okna. Výsledné anotace lze exportovat pro trénování modelů strojového učení.
 
 ## 2. Uživatelské rozhraní
@@ -33,6 +35,8 @@ Hlavní okno aplikace je rozděleno do čtyř hlavních částí:
 * **Ovládací panel:** Svislý panel umístěný na pravé straně. Obsahuje veškeré ovládací prvky pro práci se soubory, anotacemi a exportem.
 * **Prohlížeč obrázků:** Velká středová oblast, kde se zobrazuje aktuálně vybraný obrázek a kde probíhá samotné kreslení anotací.
 * **Galerie:** Vodorovná lišta umístěná dole. Zobrazuje miniatury (náhledy) všech nahraných obrázků pro snadnou navigaci.
+
+![Ukázka uživatelského rozhraní](./annotator.png)
 
 ## 3. Nahrání obrázků
 
